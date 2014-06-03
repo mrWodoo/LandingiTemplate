@@ -1,0 +1,35 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+header {
+	background-image: url( '../images/headerBackground.jpg' );
+	border-top: 2px #121212 solid;
+}
+
+div.container {
+	width: 960px !important;
+}
+
+div.page-header {
+	padding-top: 0px !important;
+	margin-top: 10px !important;
+	border-bottom: none;
+}
+
+.text-right {
+	text-align: right;
+}
+
+header .phone {
+	color: #ffffff;
+	font-size: 23px;
+}
+
+header .street {
+	color: #ffffff;
+	font-size: 15px;
+	font-weight: bold;
+}
